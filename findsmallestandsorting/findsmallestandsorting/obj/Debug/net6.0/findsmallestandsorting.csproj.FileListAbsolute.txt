@@ -1,0 +1,15 @@
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\bin\Debug\net6.0\findsmallestandsorting.exe
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\bin\Debug\net6.0\findsmallestandsorting.deps.json
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\bin\Debug\net6.0\findsmallestandsorting.runtimeconfig.json
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\bin\Debug\net6.0\findsmallestandsorting.dll
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\bin\Debug\net6.0\findsmallestandsorting.pdb
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.csproj.AssemblyReference.cache
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.AssemblyInfoInputs.cache
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.AssemblyInfo.cs
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.csproj.CoreCompileInputs.cache
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.dll
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\refint\findsmallestandsorting.dll
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.pdb
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\findsmallestandsorting.genruntimeconfig.cache
+C:\Users\t.diacci\Desktop\GitHub\findsmallestandsorting\findsmallestandsorting\findsmallestandsorting\obj\Debug\net6.0\ref\findsmallestandsorting.dll
